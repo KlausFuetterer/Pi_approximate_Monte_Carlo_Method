@@ -1,0 +1,1 @@
+valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all --error-limit=no --log-file=valgrind_report.log --track-origins=yes ./Pi_approx_cli
