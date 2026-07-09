@@ -2,7 +2,7 @@
 
 Approximate Pi using Monte Carlo Method, inspired by https://en.wikipedia.org/wiki/Monte_Carlo_method
 
-What the heck is std::atomic<T> ?
+What the heck is std::atomic ?
 
 As I am learning c++, i wanted to find out and this is the result.
 
