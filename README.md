@@ -12,7 +12,7 @@ std::atomic<T>
 
 Concurrency
 
-Program with feedback to the user program it still running
+Program with feedback to the user program is still running
 
 Validating user input
 
